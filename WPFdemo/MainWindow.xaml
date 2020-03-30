@@ -47,5 +47,10 @@
                 </DataTemplate>
             </ComboBox.ItemTemplate>
         </ComboBox>
+
+        <Image Grid.Row="1" Grid.Column="4"
+               Grid.RowSpan="6"
+               Margin="10"
+               Source="https://upload.wikimedia.org/wikipedia/fi/c/c7/MacGyver_Title_Screen.jpg"/>
     </Grid>
 </Window>
